@@ -1,0 +1,4 @@
+Prover.toml
+Verifier.toml
+target/
+proofs/
