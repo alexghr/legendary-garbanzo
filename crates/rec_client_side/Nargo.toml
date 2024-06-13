@@ -1,0 +1,8 @@
+[package]
+name = "rec_client_side"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.30.0"
+
+[dependencies]
+ro_cnp = { path = "../ro_cnp" }

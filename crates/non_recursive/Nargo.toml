@@ -1,0 +1,8 @@
+[package]
+name = "non_recursive"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.30.0"
+
+[dependencies]
+ro_cnp = { path = "../ro_cnp" }
