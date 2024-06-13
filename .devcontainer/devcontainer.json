@@ -1,0 +1,15 @@
+{
+	"name": "Noir",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"noir-lang.vscode-noir",
+				"tamasfe.even-better-toml"
+			]
+		}
+	},
+	"remoteUser": "vscode"
+}
